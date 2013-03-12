@@ -1,0 +1,5 @@
+rectification (1.2-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Alessandro Bezzi <alessandro.bezzi@arc-team.com>  Tue, 12 Mar 2013 13:10:29 +0100
