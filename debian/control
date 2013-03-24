@@ -2,7 +2,7 @@ Source: rectification
 Section: graphics
 Priority: extra
 Maintainer: Alessandro Bezzi <alessandro.bezzi@arc-team.com>
-Build-Depends: debhelper (>= 9.0.0)
+Build-Depends: debhelper (>= 9.0.0), libqt4-dev (>=4.8.0) 
 Standards-Version: 3.9.4
 Homepage: http://www.efoto.eng.uerj.br/
 #Vcs-Git: git://git.debian.org/collab-maint/rectification.git
@@ -11,5 +11,5 @@ Homepage: http://www.efoto.eng.uerj.br/
 Package: rectification
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
+Description: <Rectification module from e-foto photogrammetry suit.>
  <insert long description, indented with spaces>
