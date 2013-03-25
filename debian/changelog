@@ -1,6 +1,9 @@
 rectification (1.2-0archeos1) unstable; urgency=low
 
+  [ Alessandro Bezzi ]
   * add libqt4-dev (>=4.8.0) to the control file and add the file rectification.install
   * Initial release
 
- -- Alessandro Bezzi <alessandro.bezzi@arc-team.com>  Tue, 12 Mar 2013 13:10:29 +0100
+  [ Fabrizio Furnari ]
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Mon, 25 Mar 2013 16:18:41 +0100
