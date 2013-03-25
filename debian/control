@@ -5,11 +5,14 @@ Maintainer: Alessandro Bezzi <alessandro.bezzi@arc-team.com>
 Build-Depends: debhelper (>= 9.0.0), libqt4-dev (>=4.8.0) 
 Standards-Version: 3.9.4
 Homepage: http://www.efoto.eng.uerj.br/
-#Vcs-Git: git://git.debian.org/collab-maint/rectification.git
-#Vcs-Browser: http://git.debian.org/?p=collab-maint/rectification.git;a=summary
+Vcs-Git: git://github.com/archeos/rectification-archeos.git
+Vcs-Browser: https://github.com/archeos/rectification-archeos
 
 Package: rectification
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <Rectification module from e-foto photogrammetry suit.>
- <insert long description, indented with spaces>
+Description: Rectification module from e-foto photogrammetry suite.
+ ArcheOS's self-packaged rectification module from e-foto 
+ photogrammetry suite
+ .
+
