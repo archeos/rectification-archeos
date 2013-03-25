@@ -1,7 +1,6 @@
 rectification (1.2-0archeos1) unstable; urgency=low
 
   * add libqt4-dev (>=4.8.0) to the control file and add the file rectification.install
-
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release
 
  -- Alessandro Bezzi <alessandro.bezzi@arc-team.com>  Tue, 12 Mar 2013 13:10:29 +0100
