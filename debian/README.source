@@ -1,9 +1,10 @@
-rectification for Debian
-------------------------
+rectification for ArcheOS
+-------------------------
 
-<this file describes information about the source package, see Debian policy
-manual section 4.14. You WILL either need to modify or delete this file>
+This module for e-foto has been packaged by ArcheOS Team.
+For any issue please refer to ArcheOS maintainers.
+
+Upstream page: http://sourceforge.net/projects/e-foto/
 
 
-
-
+ -- Fabrizio Furnari <ffurnari@expedia.com>, Mon, 25 Mar 2013 16:09:19 +0100
